@@ -1,1 +1,1 @@
-This is Git commond List And CD!
+This is Git commond List!
