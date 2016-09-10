@@ -1,0 +1,3 @@
+this is a branch commond:
+
+git checkout -b dev   "create a branch dev and switch to branch dev"
